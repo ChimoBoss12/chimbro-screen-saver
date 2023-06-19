@@ -84,4 +84,3 @@ mySprite3.setBounceOnWall(true)
 color.setColor(15, color.rgb(randint(0, 255), randint(0, 255), randint(0, 255)))
     }
 }
-screensaver.startScreenSaver()
